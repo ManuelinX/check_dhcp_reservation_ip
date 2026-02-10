@@ -1,0 +1,752 @@
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="25" uniqueCount="25">
+<si><t>Scope</t></si>
+<si><t>IPAddress</t></si>
+<si><t>ClientId</t></si>
+<si><t>Name</t></si>
+<si><t>Description</t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.62</t></si>
+<si><t>f0-20-ff-47-41-40</t></si>
+<si><t>SE-INFRA-MCV.gobierno1.yucatan.gob.mx</t></si>
+<si><t>Centro de datos - Manuel Chan</t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.4</t></si>
+<si><t>80-c1-6e-92-f0-ac</t></si>
+<si><t>IMP-NOM-HP-4</t></si>
+<si><t>Laserjet P3015 / NOMINAS Y TECNOLOGIAS</t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.5</t></si>
+<si><t>80-c1-6e-92-e0-58</t></si>
+<si><t>NPI92E058</t></si>
+<si><t>Laserjet P3015 / NOMINA Y TECNOLOGIA</t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.7</t></si>
+<si><t>b4-99-ba-c7-d4-05</t></si>
+<si><t>NPIC7D405</t></si>
+<si><t>LASERJET P4515 / NOMINA Y TECNOLOGIA</t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.11</t></si>
+<si><t>00-26-73-a6-3a-55</t></si>
+<si><t>G4234-RICOHMP4054</t></si>
+<si><t>MP 4054 /NOMINAS Y TECNOLOGIAS</t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.8</t></si>
+<si><t>00-26-73-b0-f5-85</t></si>
+<si><t>RNP002673B0F585</t></si>
+<si><t>MP 5054 / NOMINA Y TECNOLOGIA</t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.9</t></si>
+<si><t>00-26-73-bf-a7-03</t></si>
+<si><t>RNP002673BFA703</t></si>
+<si><t>MP 4054 / NOMINA Y TECNOLOGIA</t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.13</t></si>
+<si><t>a0-d3-c1-7d-99-c6</t></si>
+<si><t>NPI7D99C6</t></si>
+<si><t>LASERJET 400 COLOR / NOMINAS Y TECNOLOGIAS</t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.14</t></si>
+<si><t>c4-34-6b-15-22-cd</t></si>
+<si><t>NPI1522CD</t></si>
+<si><t>LASERJET PRO 200 COLOR / NOMINAS Y TECNOLOGIAS</t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.2</t></si>
+<si><t>b4-99-ba-c7-f4-be</t></si>
+<si><t>NPIC7F4BE</t></si>
+<si><t>LASERJET P4515 / NOMINAS Y TECNOLOGIAS / ÁREA DE CAPTURA (ALEJANDRO JIMENEZ)</t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.3</t></si>
+<si><t>3c-52-82-be-f2-26</t></si>
+<si><t>NPIBEF226</t></si>
+<si><t>LaserJet M605 / NOMINAS Y TECNOLOGIAS /  SOPORTE TÉCNICO</t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.23</t></si>
+<si><t>40-a8-f0-67-29-f2</t></si>
+<si><t>SE-SISTEMAT-LLM.gobierno1.yucatan.gob.mx</t></si>
+<si><t>Laury Ignacia Lorenzo Morales / Subjefatura de Centro de Datos</t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.24</t></si>
+<si><t>00-e8-00-32-01-22</t></si>
+<si><t>LauLM</t></si>
+<si><t>Laury Ignacia Lorenzo Morales / Subjefatura de Centro de Datos</t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.25</t></si>
+<si><t>08-2e-5f-0a-48-73</t></si>
+<si><t>SEI-CGTIC-CLD.gobierno1.yucatan.gob.mx</t></si>
+<si><t>Christian Aaron Lopez Diaz / Cede inalámbrica Edificio II Sala 3A</t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.12</t></si>
+<si><t>80-c1-6e-92-e0-93</t></si>
+<si><t>NPI92E093</t></si>
+<si><t>LASERJET P3015 / NOMINAS Y TECNOLOGIAS</t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.6</t></si>
+<si><t>00-21-5a-7f-89-8b</t></si>
+<si><t>NPI7F898B</t></si>
+<si><t>HP / PRODUCCION DE NOMINA ESTATAL / LUIS ESTRELLA</t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.254</t></si>
+<si><t>f0-61-c0-c1-0a-5e</t></si>
+<si><t>AP_Sistematizacion</t></si>
+<si><t>AP DE SISTEMATIZACION</t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.253</t></si>
+<si><t>f0-61-c0-c1-13-06</t></si>
+<si><t>f0:61:c0:c1:13:06</t></si>
+<si><t>AP DE PAGADURIA</t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.53</t></si>
+<si><t>10-60-4b-80-5f-4d</t></si>
+<si><t>strelecpe</t></si>
+<si><t></t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.87</t></si>
+<si><t>10-60-4b-7f-e3-aa</t></si>
+<si><t>DESKTOP-R3IR06K</t></si>
+<si><t>Karim Israel Barroso Cañetas /  / Subjefatura de Centro de Datos</t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.93</t></si>
+<si><t>60-18-95-51-3a-35</t></si>
+<si><t>DESKTOP-TRHCH0M</t></si>
+<si><t>Javier Castillo / Centro de datos / Jefe de departamento </t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.10</t></si>
+<si><t>00-26-73-90-3a-b3</t></si>
+<si><t>C218-MFP</t></si>
+<si><t>IMP-NOM-RICOH / Departamento de Infraestructura Tecnológica</t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.250</t></si>
+<si><t>d4-63-fe-ab-a3-c0</t></si>
+<si><t>MDM-SERV-KC</t></si>
+<si><t>Modem Switch Servidores</t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.143</t></si>
+<si><t>00-0c-29-a7-43-55</t></si>
+<si><t>localhost</t></si>
+<si><t>VMWare / Alpine Server / GitLab / karim.barroso</t></si>
+<si><t>10.178.0.0</t></si>
+<si><t>10.178.0.16</t></si>
+<si><t>f0-92-1c-65-2d-71</t></si>
+<si><t>imp imp</t></si>
+<si><t>IMP / Iriving</t></si>
+<si><t>10.178.1.0</t></si>
+<si><t>10.178.1.254</t></si>
+<si><t>f0-61-c0-c1-13-42</t></si>
+<si><t>Site_Finanzas</t></si>
+<si><t>AP SITE DE FINANZAS</t></si>
+<si><t>10.178.1.0</t></si>
+<si><t>10.178.1.253</t></si>
+<si><t>f0-61-c0-c1-31-20</t></si>
+<si><t>AP_DirPrimarias</t></si>
+<si><t>AP DIRECCION DE PRIMARIAS </t></si>
+<si><t>10.178.1.0</t></si>
+<si><t>10.178.1.252</t></si>
+<si><t>f0-61-c0-c1-42-aa</t></si>
+<si><t>AP_CPREVI</t></si>
+<si><t>AP CPREVI</t></si>
+<si><t>10.178.1.0</t></si>
+<si><t>10.178.1.250</t></si>
+<si><t>94-64-24-cd-84-fe</t></si>
+<si><t>AP-IMC_CSS</t></si>
+<si><t>AP IMC CSS</t></si>
+<si><t>10.178.1.0</t></si>
+<si><t>10.178.1.249</t></si>
+<si><t>f0-61-c0-c1-09-cc</t></si>
+<si><t>f0:61:c0:c1:09:cc</t></si>
+<si><t>AP DE ESTADISTICA</t></si>
+<si><t>10.178.1.0</t></si>
+<si><t>10.178.1.248</t></si>
+<si><t>f0-61-c0-c1-58-fc</t></si>
+<si><t>AP_Contratos</t></si>
+<si><t>AP DE CONTRATOS</t></si>
+<si><t>10.178.1.0</t></si>
+<si><t>10.178.1.251</t></si>
+<si><t>f0-61-c0-c2-6a-8e</t></si>
+<si><t>AP_Administrativa</t></si>
+<si><t>Direccion Administrativa</t></si>
+<si><t>10.178.1.0</t></si>
+<si><t>10.178.1.20</t></si>
+<si><t>a4-d5-c2-9b-ff-9b</t></si>
+<si><t>CAM - 20</t></si>
+<si><t>Camaras de videovigilancia</t></si>
+<si><t>10.178.1.0</t></si>
+<si><t>10.178.1.21</t></si>
+<si><t>50-e5-38-85-6f-e6</t></si>
+<si><t>CAM - 21</t></si>
+<si><t>Camaras de videovigilancia</t></si>
+<si><t>10.178.1.0</t></si>
+<si><t>10.178.1.22</t></si>
+<si><t>50-e5-38-85-6f-0e</t></si>
+<si><t>CAM - 22</t></si>
+<si><t>Camaras de videovigilancia</t></si>
+<si><t>10.178.1.0</t></si>
+<si><t>10.178.1.23</t></si>
+<si><t>08-cc-81-58-ec-a3</t></si>
+<si><t>CAM - 23</t></si>
+<si><t>Camaras de videovigilancia</t></si>
+<si><t>10.178.1.0</t></si>
+<si><t>10.178.1.24</t></si>
+<si><t>54-8c-81-32-8e-3b</t></si>
+<si><t>CAM - 24</t></si>
+<si><t>Camaras de videovigilancia</t></si>
+<si><t>10.178.2.0</t></si>
+<si><t>10.178.2.5</t></si>
+<si><t>00-26-73-87-f2-49</t></si>
+<si><t>RNP00267387F249</t></si>
+<si><t>MP2553 / PLANEACION</t></si>
+<si><t>10.178.2.0</t></si>
+<si><t>10.178.2.6</t></si>
+<si><t>b4-22-00-84-a0-fc</t></si>
+<si><t>BRNB4220084A0FC</t></si>
+<si><t>NC-9200H / PLANEACION</t></si>
+<si><t>10.178.2.0</t></si>
+<si><t>10.178.2.7</t></si>
+<si><t>00-26-73-87-be-d6</t></si>
+<si><t>RNP00267387BED6</t></si>
+<si><t>RICOH / PLANEACION / ESTUDIOS Y PROYECTOS</t></si>
+<si><t>10.178.2.0</t></si>
+<si><t>10.178.2.8</t></si>
+<si><t>3c-d9-2b-0e-b8-01</t></si>
+<si><t>IMP-PLA-HP-8</t></si>
+<si><t>P2055DN / PLANEACION / OBRAS</t></si>
+<si><t>10.178.2.0</t></si>
+<si><t>10.178.2.10</t></si>
+<si><t>00-26-73-7d-5b-00</t></si>
+<si><t>RNP0026737D5B00</t></si>
+<si><t>MP 3053 / PLANEACIN / DIRECCION</t></si>
+<si><t>10.178.2.0</t></si>
+<si><t>10.178.2.23</t></si>
+<si><t>a0-d3-c1-32-40-3f</t></si>
+<si><t>DESKTOP-N7IQSEV</t></si>
+<si><t>Cathy Rosalba Tec Matos / Cathy Rosalba Tec Matos</t></si>
+<si><t>10.178.2.0</t></si>
+<si><t>10.178.2.9</t></si>
+<si><t>48-9e-bd-6a-2f-fd</t></si>
+<si><t>HP6A2FFD</t></si>
+<si><t>LASERJET PRO MFP M428FDW / PLANEACIOIN /  DIRECCION</t></si>
+<si><t>10.178.2.0</t></si>
+<si><t>10.178.2.11</t></si>
+<si><t>00-c0-ee-b7-86-bf</t></si>
+<si><t>KMB786BF</t></si>
+<si><t>FS-1035MFP / RECURSOS HUMANOS / DIRECCION</t></si>
+<si><t>10.178.2.0</t></si>
+<si><t>10.178.2.12</t></si>
+<si><t>30-e1-71-3f-94-ff</t></si>
+<si><t>NPI3F94FF</t></si>
+<si><t>HP LASERJET MFP M477fdw NPI3F94FF/ PLANEACIÓN</t></si>
+<si><t>10.178.2.0</t></si>
+<si><t>10.178.2.13</t></si>
+<si><t>00-26-73-80-fe-4d</t></si>
+<si><t>RNP00267380FE4D</t></si>
+<si><t>IMPRESORA / DIRECCION PLANEACION / </t></si>
+<si><t>10.178.2.0</t></si>
+<si><t>10.178.2.14</t></si>
+<si><t>00-26-73-ad-af-53</t></si>
+<si><t>RNP002673ADAF53</t></si>
+<si><t>datos no enviados</t></si>
+<si><t>10.178.2.0</t></si>
+<si><t>10.178.2.15</t></si>
+<si><t>38-63-bb-d9-e9-4b</t></si>
+<si><t>NPID9E94B</t></si>
+<si><t>Falta datos area planeacion</t></si>
+<si><t>10.178.2.0</t></si>
+<si><t>10.178.2.2</t></si>
+<si><t>00-26-73-8a-37-9b</t></si>
+<si><t>IMP-RICOH-2</t></si>
+<si><t>RICOH MP 301  /  CONTOROL INTERNO</t></si>
+<si><t>10.178.2.0</t></si>
+<si><t>10.178.2.17</t></si>
+<si><t>00-26-73-99-47-0b</t></si>
+<si><t>IMP-CONTRATO</t></si>
+<si><t>soporte</t></si>
+<si><t>10.178.2.0</t></si>
+<si><t>10.178.2.3</t></si>
+<si><t>9c-93-4e-a7-a6-8f</t></si>
+<si><t>XRX9C934EA7A68F</t></si>
+<si><t>IMPRESORA	COMUNICACIÓN SOCIAL 	Xerox	C8035</t></si>
+<si><t>10.178.2.0</t></si>
+<si><t>10.178.2.16</t></si>
+<si><t>94-dd-f8-3e-3a-2b</t></si>
+<si><t>BRN94DDF83E3A2B</t></si>
+<si><t>Coordinacion TI</t></si>
+<si><t>10.178.3.0</t></si>
+<si><t>10.178.3.2</t></si>
+<si><t>00-26-73-b0-fa-63</t></si>
+<si><t>IMP-EST-RICOH-2</t></si>
+<si><t>MP 5054 / ESTADISTICA / ESTADISTICA</t></si>
+<si><t>10.178.3.0</t></si>
+<si><t>10.178.3.23</t></si>
+<si><t>a4-5d-36-17-63-5f</t></si>
+<si><t>DESKTOP-GCLS8QT</t></si>
+<si><t>Miguel Jesus Cauich Osalde /  Estadística</t></si>
+<si><t>10.178.3.0</t></si>
+<si><t>10.178.3.24</t></si>
+<si><t>fc-4d-d4-4c-e4-0b</t></si>
+<si><t>SE-ESTA-NCG.gobierno1.yucatan.gob.mx</t></si>
+<si><t>Noemi del Carmen Carrillo Gonzalez / Estadística</t></si>
+<si><t>10.178.3.0</t></si>
+<si><t>10.178.3.25</t></si>
+<si><t>f0-92-1c-dc-54-b8</t></si>
+<si><t>SE-PLANEA-JPC.gobierno1.yucatan.gob.mx</t></si>
+<si><t>Alfonso Adrian Segovia Martin / Estadística</t></si>
+<si><t>10.178.3.0</t></si>
+<si><t>10.178.3.27</t></si>
+<si><t>24-be-05-0e-5f-43</t></si>
+<si><t>SE-SISTEMAT-JCG.gobierno1.yucatan.gob.mx</t></si>
+<si><t>Jorge Cebada Gutierrez / Estadística</t></si>
+<si><t>10.178.3.0</t></si>
+<si><t>10.178.3.28</t></si>
+<si><t>9c-b6-54-1d-83-69</t></si>
+<si><t>DESKTOP-V204L2T</t></si>
+<si><t>Jacob Parra Cetina / Estadística</t></si>
+<si><t>10.178.3.0</t></si>
+<si><t>10.178.3.29</t></si>
+<si><t>60-18-95-50-c8-4f</t></si>
+<si><t>DESKTOP-EGPCRJI</t></si>
+<si><t>Jorge Adrian Canche Herrera / Estadística</t></si>
+<si><t>10.178.3.0</t></si>
+<si><t>10.178.3.30</t></si>
+<si><t>e4-54-e8-69-e3-38</t></si>
+<si><t>SE-ESTA-DGF.gobierno1.yucatan.gob.mx</t></si>
+<si><t>FERNANDO. CANDILA / ESTADISTICA</t></si>
+<si><t>10.178.3.0</t></si>
+<si><t>10.178.3.4</t></si>
+<si><t>30-05-5c-b2-03-12</t></si>
+<si><t>BRN30055CB20312</t></si>
+<si><t>Estadistica</t></si>
+<si><t>10.178.3.0</t></si>
+<si><t>10.178.3.96</t></si>
+<si><t>c8-4d-44-23-01-4c</t></si>
+<si><t>SE-DESLAP-JBC.gobierno1.yucatan.gob.mx</t></si>
+<si><t>Jose Francisco Briseño Coronado /  Estadística</t></si>
+<si><t>10.178.3.0</t></si>
+<si><t>10.178.3.3</t></si>
+<si><t>00-26-73-ee-ab-67</t></si>
+<si><t>RNP002673EEAB67</t></si>
+<si><t>MP-3055 / ESTADISTICA / PRESUPUESTOS</t></si>
+<si><t>10.178.4.0</t></si>
+<si><t>10.178.4.2</t></si>
+<si><t>00-26-73-84-a1-a0</t></si>
+<si><t>VINCULACION</t></si>
+<si><t>MP 3053 / PAGADURIA / NOMINA FEDERAL (GABRIELA CAMPOS)</t></si>
+<si><t>10.178.4.0</t></si>
+<si><t>10.178.4.6</t></si>
+<si><t>00-26-73-9a-a8-87</t></si>
+<si><t>RNP0026739AA887</t></si>
+<si><t>MP 5054 / PAGADURIA / RECURSOS MATERIALES (LIC LISSETH)</t></si>
+<si><t>10.178.4.0</t></si>
+<si><t>10.178.4.7</t></si>
+<si><t>00-26-73-19-da-3a</t></si>
+<si><t>MXMRDPRT38</t></si>
+<si><t>AFICIO MP 2851 / PAGADURIA / PAGADURIA (MARTA GONGORA)</t></si>
+<si><t>10.178.4.0</t></si>
+<si><t>10.178.4.8</t></si>
+<si><t>14-58-d0-40-07-d0</t></si>
+<si><t>NPI4007D0</t></si>
+<si><t>P3015 / PAGADURIA / OFICINA DE VALIDACION NOMINA ESTATAL  (CARLOS POOT)</t></si>
+<si><t>10.178.4.0</t></si>
+<si><t>10.178.4.4</t></si>
+<si><t>00-26-73-96-0f-2b</t></si>
+<si><t>RNP002673D0A90F</t></si>
+<si><t>MP 4054 / PAGADURIA / RECURSOS MATERIALES (LIC LISSETH)</t></si>
+<si><t>10.178.4.0</t></si>
+<si><t>10.178.4.3</t></si>
+<si><t>b4-22-00-9f-80-1d</t></si>
+<si><t>IMP-RM-4</t></si>
+<si><t>M2040DN / PAGADURIA / RECURSOS MATERIALES Ruben Nuñez</t></si>
+<si><t>10.178.4.0</t></si>
+<si><t>10.178.4.5</t></si>
+<si><t>00-26-73-d0-3b-c4</t></si>
+<si><t>ZAR024MC3D03BC4</t></si>
+<si><t>IMP / Recursos Materiales</t></si>
+<si><t>10.178.5.0</t></si>
+<si><t>10.178.5.2</t></si>
+<si><t>00-26-73-99-7c-30</t></si>
+<si><t>COPY-4020-Rm208</t></si>
+<si><t>Mp 3554 / COPNTRALORIA / Almacen de Consumo Ivan Paez</t></si>
+<si><t>10.178.5.0</t></si>
+<si><t>10.178.5.3</t></si>
+<si><t>58-38-79-34-f7-5b</t></si>
+<si><t>B15984</t></si>
+<si><t>MP 3555 / CONTRALORIA / CONTROL PATRIMONIAL (JORGE RODRIGUEZ)</t></si>
+<si><t>10.178.5.0</t></si>
+<si><t>10.178.5.5</t></si>
+<si><t>00-26-73-a8-89-78</t></si>
+<si><t>ricohc4503t</t></si>
+<si><t>MP C45503 SP / ALMACEN / SERVICIOS GENERALES Cristian Novelo</t></si>
+<si><t>10.178.5.0</t></si>
+<si><t>10.178.5.4</t></si>
+<si><t>00-26-73-f6-53-df</t></si>
+<si><t>RNP002673F653DF</t></si>
+<si><t>Ricoh mp 3055 / CONTRALORIA / CONTROL PATRIMONIAL (ÁREA DE ARCHIVO) JOAQUIN LOPEZ</t></si>
+<si><t>10.178.5.0</t></si>
+<si><t>10.178.5.6</t></si>
+<si><t>00-26-73-8d-f3-1b</t></si>
+<si><t>RNP0026738DF31B</t></si>
+<si><t>IMPRESORA/ SIN DATOS / </t></si>
+<si><t>10.178.6.0</t></si>
+<si><t>10.178.6.4</t></si>
+<si><t>58-38-79-1f-a5-c5</t></si>
+<si><t>RNP5838791FA5C5</t></si>
+<si><t>MP4055 / ALMACEN / GRÁFICOS</t></si>
+<si><t>10.178.6.0</t></si>
+<si><t>10.178.6.6</t></si>
+<si><t>00-26-73-90-44-3d</t></si>
+<si><t>RICOH4054</t></si>
+<si><t>MP 4054/ ALAMACEN / ASISTENCIA Y PREVISIÓN Edgar Mena</t></si>
+<si><t>10.178.6.0</t></si>
+<si><t>10.178.6.8</t></si>
+<si><t>00-26-73-b0-fa-63</t></si>
+<si><t>GBOFCADCOPY</t></si>
+<si><t>IMP-ALMACEN-GRAFICOS</t></si>
+<si><t>10.178.6.0</t></si>
+<si><t>10.178.6.2</t></si>
+<si><t>9c-93-4e-a7-a6-8f</t></si>
+<si><t>XRX9C934EA7A68F</t></si>
+<si><t>IMPRESORA XEROX  / ALMACEN / GRÁFICOS</t></si>
+<si><t>10.178.6.0</t></si>
+<si><t>10.178.6.3</t></si>
+<si><t>00-26-73-a6-71-59</t></si>
+<si><t>RNP002673A67159</t></si>
+<si><t>IMPRESORA / RICOH MP4054 / </t></si>
+<si><t>10.178.6.0</t></si>
+<si><t>10.178.6.9</t></si>
+<si><t>00-26-73-d0-3b-c4</t></si>
+<si><t>ZAR024MC3D03BC4</t></si>
+<si><t>MP 3053 / AREA DE GRAFICOS</t></si>
+<si><t>10.178.6.0</t></si>
+<si><t>10.178.6.7</t></si>
+<si><t>00-26-73-ef-dc-cf</t></si>
+<si><t>US-SE-DIS-PT005</t></si>
+<si><t>IMPRESORA / CONTROL VEHICULAR </t></si>
+<si><t>10.178.6.0</t></si>
+<si><t>10.178.6.5</t></si>
+<si><t>58-38-79-47-49-73</t></si>
+<si><t>RNP583879474973</t></si>
+<si><t>IMPRESORA / Asistencia y Previsión</t></si>
+<si><t>10.178.7.0</t></si>
+<si><t>10.178.7.3</t></si>
+<si><t>00-17-61-12-8b-70</t></si>
+<si><t>LEC-GG-3</t></si>
+<si><t>CASETA DE RECURSOS MATERIALES</t></si>
+<si><t>10.178.7.0</t></si>
+<si><t>10.178.7.2</t></si>
+<si><t>00-17-61-12-8b-7c</t></si>
+<si><t>LEC-GG-2</t></si>
+<si><t>CASETA DE NÓMINA-SISTEMATIZACIÓN</t></si>
+<si><t>10.178.7.0</t></si>
+<si><t>10.178.7.25</t></si>
+<si><t>00-17-61-12-8b-57</t></si>
+<si><t>chec-1</t></si>
+<si><t>Lector de huella / edificio central / ZKTECO / UA860</t></si>
+<si><t>10.178.7.0</t></si>
+<si><t>10.178.7.27</t></si>
+<si><t>00-17-61-12-8b-26</t></si>
+<si><t>chec-3</t></si>
+<si><t>Lector de huella / edificio central / ZKTECO / UA862</t></si>
+<si><t>10.178.7.0</t></si>
+<si><t>10.178.7.26</t></si>
+<si><t>00-17-61-12-99-22</t></si>
+<si><t>chec-2</t></si>
+<si><t>Lector de huella / edificio central / ZKTECO / UA861</t></si>
+<si><t>10.178.7.0</t></si>
+<si><t>10.178.7.4</t></si>
+<si><t>00-26-73-ab-99-92</t></si>
+<si><t>ingramhall-b026-c3503</t></si>
+<si><t>MP C3503 / ALMACEN / ASISTENCIA Y PRVISION</t></si>
+<si><t>10.178.8.0</t></si>
+<si><t>10.178.8.2</t></si>
+<si><t>a4-5d-36-17-63-5f</t></si>
+<si><t>DESKTOP-GCLS8QT</t></si>
+<si><t>Miguel </t></si>
+<si><t>10.178.8.0</t></si>
+<si><t>10.178.8.132</t></si>
+<si><t>48-d2-24-61-0f-ad</t></si>
+<si><t>DESKTOP-GCLS8QT</t></si>
+<si><t>LAP TOP / MIGUEL CAHUICH / INALAMBRICA</t></si>
+<si><t>10.178.8.0</t></si>
+<si><t>10.178.8.19</t></si>
+<si><t>f0-92-1c-65-6d-aa</t></si>
+<si><t>IMP - SND - 19</t></si>
+<si><t>IMPRESORA / SIN DATOS</t></si>
+<si><t>10.178.8.0</t></si>
+<si><t>10.178.8.78</t></si>
+<si><t>c4-3d-1a-55-b1-a8</t></si>
+<si><t>SE-DESLAP-EEO.gobierno1.yucatan.gob.mx</t></si>
+<si><t></t></si>
+<si><t>10.178.8.0</t></si>
+<si><t>10.178.8.33</t></si>
+<si><t>f4-f2-6d-03-5f-ab</t></si>
+<si><t>SE-REGCERT-AMV2.gobierno1.yucatan.gob.mx</t></si>
+<si><t>Miguel Cauich / Desarrollo / Aplicaciones Web</t></si>
+<si><t>10.178.9.0</t></si>
+<si><t>10.178.9.3</t></si>
+<si><t>2c-59-e5-77-be-bd</t></si>
+<si><t>IMP-PRIM-HP-3</t></si>
+<si><t>LASERJET P115 / PRIMARIAS / CONCILIACION BANCARIA (ATRÁS DE CAJEROS)</t></si>
+<si><t>10.178.9.0</t></si>
+<si><t>10.178.9.4</t></si>
+<si><t>08-2e-5f-6a-b6-bf</t></si>
+<si><t>NPI6AB6BF</t></si>
+<si><t>LASERJET P115 / PRIMARIAS / CONCILIACION BANCARIA (ATRÁS DE CAJEROS)</t></si>
+<si><t>10.178.9.0</t></si>
+<si><t>10.178.9.6</t></si>
+<si><t>ec-8e-b5-23-ba-ae</t></si>
+<si><t>NPI23BAAE</t></si>
+<si><t>HP LASERJET FFP M426DW / PRIMARIAS / DEPARTAMENTO DE GESTION DE INFORMACION</t></si>
+<si><t>10.178.9.0</t></si>
+<si><t>10.178.9.8</t></si>
+<si><t>00-26-73-73-b1-8a</t></si>
+<si><t>HEMA21P</t></si>
+<si><t>MP3053 / PRIMARIAS / COORDINACION DE ENLACE (LEONOR PENICHE)</t></si>
+<si><t>10.178.9.0</t></si>
+<si><t>10.178.9.32</t></si>
+<si><t>00-80-9f-b4-ec-cb</t></si>
+<si><t>TEL-PRIM-ALCATEL-1</t></si>
+<si><t>EXT. 51305 \ ESTANCIA</t></si>
+<si><t>10.178.9.0</t></si>
+<si><t>10.178.9.17</t></si>
+<si><t>00-26-73-7a-74-b6</t></si>
+<si><t>RNP0026737A74B6</t></si>
+<si><t>BIZHUB 454E / PRIMARIAS / COORDINACION DE ARCHIVOS (SALIDA DIRECTORES)</t></si>
+<si><t>10.178.9.0</t></si>
+<si><t>10.178.9.45</t></si>
+<si><t>a0-8c-fd-cc-23-89</t></si>
+<si><t>SE-IMC-JCM.gobierno1.yucatan.gob.mx</t></si>
+<si><t>Jose Azrael Cetina Medina (azrael.cetina@yucatan.gob.mx)</t></si>
+<si><t>10.178.9.0</t></si>
+<si><t>10.178.9.16</t></si>
+<si><t>00-26-73-9c-1e-72</t></si>
+<si><t>RNP0026739C1E72</t></si>
+<si><t>MP 2553 / PRIMARIAS / ADQUISICIONES</t></si>
+<si><t>10.178.9.0</t></si>
+<si><t>10.178.9.2</t></si>
+<si><t>ac-e2-d3-42-f5-e0</t></si>
+<si><t>RNP0026738A0973</t></si>
+<si><t>MP301SPF / PRIMARIAS / ARCHIVOS Y GLOSA (ATRÁS DE CAJEROS)</t></si>
+<si><t>10.178.9.0</t></si>
+<si><t>10.178.9.5</t></si>
+<si><t>30-e1-71-3d-98-0a</t></si>
+<si><t>NPI3D980A</t></si>
+<si><t>HP LASERJET P2055DN / PRIMARIAS / PROYECTOS TRANSVERSALES (ATRÁS DE CAJEROS)</t></si>
+<si><t>10.178.9.0</t></si>
+<si><t>10.178.9.7</t></si>
+<si><t>00-26-73-ef-97-58</t></si>
+<si><t>RNP002673EF9758</t></si>
+<si><t>MX-M5064M / PRIMARIAS /OFICINA DE TRAMITE (CARMITA UH)</t></si>
+<si><t>10.178.10.0</t></si>
+<si><t>10.178.10.2</t></si>
+<si><t>58-38-79-1d-72-8c</t></si>
+<si><t>RNP5838791D728C</t></si>
+<si><t>MP 301 / FINANZAS / FINANZAS CONTABILIDAD</t></si>
+<si><t>10.178.10.0</t></si>
+<si><t>10.178.10.3</t></si>
+<si><t>58-38-79-20-cc-07</t></si>
+<si><t>RNP58387920CC07</t></si>
+<si><t>MP 301 / FINANZAS /FINANZAS FISCALIZACION</t></si>
+<si><t>10.178.10.0</t></si>
+<si><t>10.178.10.4</t></si>
+<si><t>00-17-c8-bb-f3-a1</t></si>
+<si><t>IMP-FIN-KYOCERA-4</t></si>
+<si><t>ECOSYS M2040DN / FINANZAS / FINANZAS TESORERIA</t></si>
+<si><t>10.178.10.0</t></si>
+<si><t>10.178.10.5</t></si>
+<si><t>00-26-73-72-5a-cf</t></si>
+<si><t>RNP002673725ACF</t></si>
+<si><t>MP 3053 / FINANZAS / RECURSOS FINANCIEROS</t></si>
+<si><t>10.178.10.0</t></si>
+<si><t>10.178.10.6</t></si>
+<si><t>00-26-73-71-61-9a</t></si>
+<si><t>RNP00267371619A</t></si>
+<si><t>MP 3053 / FINANZAS / RECURSOS FINANCIEROS</t></si>
+<si><t>10.178.10.0</t></si>
+<si><t>10.178.10.8</t></si>
+<si><t>d4-85-64-42-27-95</t></si>
+<si><t>NPI422795</t></si>
+<si><t>IMP-FIN-LASERJET-P2055DN</t></si>
+<si><t>10.178.10.0</t></si>
+<si><t>10.178.10.9</t></si>
+<si><t>bc-51-fe-ba-38-34</t></si>
+<si><t>DVR8-4680RN</t></si>
+<si><t>DVR8-4680RN-contraloria de partes </t></si>
+<si><t>10.178.10.0</t></si>
+<si><t>10.178.10.11</t></si>
+<si><t>a0-d3-c1-ea-ed-3b</t></si>
+<si><t>NPIEAED3B</t></si>
+<si><t>IMP / DEPTO RECURSOS FINANCIEROS / SUBJEFATURA DE TESORERIA </t></si>
+<si><t>10.178.10.0</t></si>
+<si><t>10.178.10.12</t></si>
+<si><t>00-26-73-8b-4d-89</t></si>
+<si><t>RNP0026738B4D89</t></si>
+<si><t> fin imp sub de recursos finan</t></si>
+<si><t>10.178.10.0</t></si>
+<si><t>10.178.10.10</t></si>
+<si><t>00-17-c8-2d-79-32</t></si>
+<si><t>IMPMERATCGP</t></si>
+<si><t>ADMINISTRACIÓN Y FINANZAS - CONTABILIDAD</t></si>
+<si><t>10.178.11.0</t></si>
+<si><t>10.178.11.4</t></si>
+<si><t>28-80-23-11-aa-34</t></si>
+<si><t>NPI11AA34</t></si>
+<si><t>P3015 / RECURSOS HUMANOS / RECURSOS HUMANOS</t></si>
+<si><t>10.178.11.0</t></si>
+<si><t>10.178.11.5</t></si>
+<si><t>00-26-73-b0-4b-5b</t></si>
+<si><t>RNP002673B04B5B</t></si>
+<si><t>MP 3554 / RECURSOS HUMANOS / RECURSOS HUMANOS CAMBIO DE ACTIVIDAD</t></si>
+<si><t>10.178.11.0</t></si>
+<si><t>10.178.11.6</t></si>
+<si><t>00-26-73-99-47-0b</t></si>
+<si><t>IMP-RECHUM-RICOH-6</t></si>
+<si><t>SP 310 / RECURSOS HUMANOS/ RECURSOS HUMANOS PROGRAMA DE APOYO Y EVENTUAL</t></si>
+<si><t>10.178.11.0</t></si>
+<si><t>10.178.11.7</t></si>
+<si><t>00-26-73-73-b1-ac</t></si>
+<si><t>ENDO12P</t></si>
+<si><t>MP 3053 /  RECURSOS HUMANOS /DIRECCION </t></si>
+<si><t>10.178.11.0</t></si>
+<si><t>10.178.11.9</t></si>
+<si><t>f4-39-09-f5-ba-16</t></si>
+<si><t>IMP-RECHUM-HP-9</t></si>
+<si><t>LASERJET MFP M426DW / RECURSOS HUMANOS / SUBDIRECCION DE ADMINISTRACIÓN (CABLE)</t></si>
+<si><t>10.178.11.0</t></si>
+<si><t>10.178.11.10</t></si>
+<si><t>9c-b5-54-19-ee-b5</t></si>
+<si><t>IMP-RECHUM-HP-10</t></si>
+<si><t>LASERJET M475DN / RECURSOS HUMANOS / COORDINACION DE ATENCION A ESCUELAS NORMALES</t></si>
+<si><t>10.178.11.0</t></si>
+<si><t>10.178.11.11</t></si>
+<si><t>30-05-5c-48-a4-a0</t></si>
+<si><t>BRN30055C48A4A0</t></si>
+<si><t>NC-8200H / RECURSOS HUMANOS / COORDINACION DE ATENCION A ESCUELAS NORMALES</t></si>
+<si><t>10.178.11.0</t></si>
+<si><t>10.178.11.23</t></si>
+<si><t>e4-54-e8-69-78-ee</t></si>
+<si><t>SER-RECHUM-MCC.gobierno1.yucatan.gob.mx</t></si>
+<si><t> Martín Augusto Canché Canché / Departamento de Recursos Humanos</t></si>
+<si><t>10.178.11.0</t></si>
+<si><t>10.178.11.12</t></si>
+<si><t>00-26-73-79-98-a1</t></si>
+<si><t>RNP0026737998A1</t></si>
+<si><t>MP 2553 / FINANZAS / OFICIALIA DE PARTES</t></si>
+<si><t>10.178.11.0</t></si>
+<si><t>10.178.11.8</t></si>
+<si><t>00-26-73-e5-cf-ec</t></si>
+<si><t>IMP-MP3055-ADMIN-FIN</t></si>
+<si><t>DIRECCION DE ADMNISTRACION Y FINANZAS</t></si>
+<si><t>10.178.11.0</t></si>
+<si><t>10.178.11.13</t></si>
+<si><t>94-dd-f8-22-57-ad</t></si>
+<si><t>BRN94DDF82257AD</t></si>
+<si><t>IMP / ADMINISTRACION Y FINANZAS - DIRECCION / BROTHER DCP-L3560CDW</t></si>
+<si><t>10.178.11.0</t></si>
+<si><t>10.178.11.3</t></si>
+<si><t>00-26-73-f6-87-b4</t></si>
+<si><t>RNP002673F687B4</t></si>
+<si><t>MX-M464 / SALA 3</t></si>
+<si><t>10.178.11.0</t></si>
+<si><t>10.178.11.14</t></si>
+<si><t>08-2e-5f-b9-1b-06</t></si>
+<si><t>NPIB91B06</t></si>
+<si><t>IMP / Recursos Humanos / Irving</t></si>
+<si><t>10.178.11.0</t></si>
+<si><t>10.178.11.2</t></si>
+<si><t>58-38-79-1c-00-e0</t></si>
+<si><t>RNP5838791C00E0</t></si>
+<si><t>MP 2555 / RECURSOS HUMANOS / RECURSOS HUMANOS JEFATURA</t></si>
+<si><t>10.178.11.0</t></si>
+<si><t>10.178.11.15</t></si>
+<si><t>fc-3f-db-c1-b9-05</t></si>
+<si><t>NPIC1B905</t></si>
+<si><t>IMP / sin datos / Servicio: Felix Sosa</t></si>
+<si><t>10.178.11.0</t></si>
+<si><t>10.178.11.16</t></si>
+<si><t>44-1e-a1-2f-2c-5e</t></si>
+<si><t>NPI2F2C5E</t></si>
+<si><t>Recursos Humanos / Subjefatura de contratratos ADG </t></si>
+<si><t>10.178.12.0</t></si>
+<si><t>10.178.12.3</t></si>
+<si><t>00-26-73-72-97-d4</t></si>
+<si><t>RNP0026737297D4</t></si>
+<si><t>MP 2553 / DESPACHO / COORDINACION DE ARCHIVOS DE PERSONAL DE CONTRATO (ATRÁS DE AUDITORIO)</t></si>
+<si><t>10.178.12.0</t></si>
+<si><t>10.178.12.4</t></si>
+<si><t>00-26-73-43-59-3d</t></si>
+<si><t>RNP00267343593D</t></si>
+<si><t>AFICIO MP 2852 / DESPACHO / COORDINACION DE ARCHIVOS DE PERSONAL DE CONTRATO (ATRÁS DE AUDITORIO)</t></si>
+<si><t>10.178.12.0</t></si>
+<si><t>10.178.12.5</t></si>
+<si><t>00-26-73-c1-35-1d</t></si>
+<si><t>RNP002673C1351D</t></si>
+<si><t>MP C4504 / DESPACHO / DESPACHO RECEPCION </t></si>
+<si><t>10.178.12.0</t></si>
+<si><t>10.178.12.6</t></si>
+<si><t>38-63-bb-d9-e9-4b</t></si>
+<si><t>NPID9E94B</t></si>
+<si><t>LASSER JET PRO M521DN / DESPACHO / DESPACHO COORD. ADM.</t></si>
+<si><t>10.178.12.0</t></si>
+<si><t>10.178.12.23</t></si>
+<si><t>ec-b1-d7-6a-8e-7a</t></si>
+<si><t>SE-CGTIC-HRG</t></si>
+<si><t>Humberto Javier Ruz Gonzalez / Registro y Certificación</t></si>
+<si><t>10.178.12.0</t></si>
+<si><t>10.178.12.254</t></si>
+<si><t>9c-14-63-4a-b5-10</t></si>
+<si><t>DVR-DESPACHO</t></si>
+<si><t>DVR DESPACHO</t></si>
+<si><t>10.178.12.0</t></si>
+<si><t>10.178.12.7</t></si>
+<si><t>58-38-79-15-72-1a</t></si>
+<si><t>BRN94DDF8200A9D</t></si>
+<si><t>NC-9200H / DESPACHO / ASISTENTES (raymundo muñoz)</t></si>
+<si><t>10.178.12.0</t></si>
+<si><t>10.178.12.9</t></si>
+<si><t>a8-b1-3b-0d-32-c5</t></si>
+<si><t>HP0D32C5</t></si>
+<si><t>IMP / DESPACHO</t></si>
+<si><t>10.178.12.0</t></si>
+<si><t>10.178.12.8</t></si>
+<si><t>3c-2a-f4-61-50-4a</t></si>
+<si><t>BRN3C2AF461504A</t></si>
+<si><t>IMPRESORA / Despacho - Protocolo</t></si>
+<si><t>10.178.12.0</t></si>
+<si><t>10.178.12.10</t></si>
+<si><t>f4-30-b9-f0-41-8a</t></si>
+<si><t>NPIF0418A</t></si>
+<si><t>HP Color laser Jet M553 / Despacho- Sala de Juntas</t></si>
+<si><t>10.178.12.0</t></si>
+<si><t>10.178.12.2</t></si>
+<si><t>00-26-73-6f-96-bf</t></si>
+<si><t>RNP0026736F96BF</t></si>
+<si><t>Impresora / control patrimonial</t></si>
+<si><t>10.178.12.0</t></si>
+<si><t>10.178.12.11</t></si>
+<si><t>24-e9-b3-ea-2d-ff</t></si>
+<si><t>Despacho</t></si>
+<si><t>Prueba de despacho 200126</t></si>
+<si><t>192.168.118.0</t></si>
+<si><t>192.168.118.48</t></si>
+<si><t>98-e7-f4-a5-c7-72</t></si>
+<si><t>Impresora-HP_primaria</t></si>
+<si><t>Impresora asignada a primarias</t></si>
+<si><t>192.168.118.0</t></si>
+<si><t>192.168.118.15</t></si>
+<si><t>80-38-96-9f-60-47</t></si>
+<si><t>Impresora Sharp mx3570</t></si>
+<si><t>Impresora Sharp mx3570 comunicación social</t></si>
+<si><t>192.168.118.0</t></si>
+<si><t>192.168.119.189</t></si>
+<si><t>00-26-73-a6-a6-0c</t></si>
+<si><t>Impresora Rechum</t></si>
+<si><t></t></si>
+<si><t>192.168.118.0</t></si>
+<si><t>192.168.118.24</t></si>
+<si><t>00-26-73-73-b1-ac</t></si>
+<si><t>Impresora</t></si>
+<si><t>dirección de administración y finanzas-Ricoh</t></si>
+<si><t>192.168.120.0</t></si>
+<si><t>192.168.120.241</t></si>
+<si><t>00-26-73-c1-35-1d</t></si>
+<si><t>Impresora despacho</t></si>
+<si><t>Impresora despacho</t></si>
+</sst>

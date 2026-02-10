@@ -1,0 +1,269 @@
+Reservaciones para el scope 10.178.0.0
+----------------------------------
+
+IPAddress    ClientId          Name                                     Description
+---------    --------          ----                                     -----------
+10.178.0.62  f0-20-ff-47-41-40 SE-INFRA-MCV.gobierno1.yucatan.gob.mx    Centro de datos - Manuel Chan
+10.178.0.4   80-c1-6e-92-f0-ac IMP-NOM-HP-4                             Laserjet P3015 / NOMINAS Y TECNOLOGIAS
+10.178.0.5   80-c1-6e-92-e0-58 NPI92E058                                Laserjet P3015 / NOMINA Y TECNOLOGIA
+10.178.0.7   b4-99-ba-c7-d4-05 NPIC7D405                                LASERJET P4515 / NOMINA Y TECNOLOGIA
+10.178.0.11  00-26-73-a6-3a-55 G4234-RICOHMP4054                        MP 4054 /NOMINAS Y TECNOLOGIAS
+10.178.0.8   00-26-73-b0-f5-85 RNP002673B0F585                          MP 5054 / NOMINA Y TECNOLOGIA
+10.178.0.9   00-26-73-bf-a7-03 RNP002673BFA703                          MP 4054 / NOMINA Y TECNOLOGIA
+10.178.0.13  a0-d3-c1-7d-99-c6 NPI7D99C6                                LASERJET 400 COLOR / NOMINAS Y TECNOLOGIAS
+10.178.0.14  c4-34-6b-15-22-cd NPI1522CD                                LASERJET PRO 200 COLOR / NOMINAS Y TECNOLOGIAS
+10.178.0.2   b4-99-ba-c7-f4-be NPIC7F4BE                                LASERJET P4515 / NOMINAS Y TECNOLOGIAS / ÁREA D…
+10.178.0.3   3c-52-82-be-f2-26 NPIBEF226                                LaserJet M605 / NOMINAS Y TECNOLOGIAS /  SOPORT…
+10.178.0.23  40-a8-f0-67-29-f2 SE-SISTEMAT-LLM.gobierno1.yucatan.gob.mx Laury Ignacia Lorenzo Morales / Subjefatura de …
+10.178.0.24  00-e8-00-32-01-22 LauLM                                    Laury Ignacia Lorenzo Morales / Subjefatura de …
+10.178.0.25  08-2e-5f-0a-48-73 SEI-CGTIC-CLD.gobierno1.yucatan.gob.mx   Christian Aaron Lopez Diaz / Cede inalámbrica E…
+10.178.0.12  80-c1-6e-92-e0-93 NPI92E093                                LASERJET P3015 / NOMINAS Y TECNOLOGIAS
+10.178.0.6   00-21-5a-7f-89-8b NPI7F898B                                HP / PRODUCCION DE NOMINA ESTATAL / LUIS ESTREL…
+10.178.0.254 f0-61-c0-c1-0a-5e AP_Sistematizacion                       AP DE SISTEMATIZACION
+10.178.0.253 f0-61-c0-c1-13-06 f0:61:c0:c1:13:06                        AP DE PAGADURIA
+10.178.0.53  10-60-4b-80-5f-4d strelecpe                                
+10.178.0.87  10-60-4b-7f-e3-aa DESKTOP-R3IR06K                          Karim Israel Barroso Cañetas /  / Subjefatura d…
+10.178.0.93  60-18-95-51-3a-35 DESKTOP-TRHCH0M                          Javier Castillo / Centro de datos / Jefe de dep…
+10.178.0.10  00-26-73-90-3a-b3 C218-MFP                                 IMP-NOM-RICOH / Departamento de Infraestructura…
+10.178.0.250 d4-63-fe-ab-a3-c0 MDM-SERV-KC                              Modem Switch Servidores
+10.178.0.143 00-0c-29-a7-43-55 localhost                                VMWare / Alpine Server / GitLab / karim.barroso
+10.178.0.16  f0-92-1c-65-2d-71 imp imp                                  IMP / Iriving
+
+
+
+Reservaciones para el scope 10.178.1.0
+----------------------------------
+
+IPAddress    ClientId          Name              Description
+---------    --------          ----              -----------
+10.178.1.254 f0-61-c0-c1-13-42 Site_Finanzas     AP SITE DE FINANZAS
+10.178.1.253 f0-61-c0-c1-31-20 AP_DirPrimarias   AP DIRECCION DE PRIMARIAS 
+10.178.1.252 f0-61-c0-c1-42-aa AP_CPREVI         AP CPREVI
+10.178.1.250 94-64-24-cd-84-fe AP-IMC_CSS        AP IMC CSS
+10.178.1.249 f0-61-c0-c1-09-cc f0:61:c0:c1:09:cc AP DE ESTADISTICA
+10.178.1.248 f0-61-c0-c1-58-fc AP_Contratos      AP DE CONTRATOS
+10.178.1.251 f0-61-c0-c2-6a-8e AP_Administrativa Direccion Administrativa
+10.178.1.20  a4-d5-c2-9b-ff-9b CAM - 20          Camaras de videovigilancia
+10.178.1.21  50-e5-38-85-6f-e6 CAM - 21          Camaras de videovigilancia
+10.178.1.22  50-e5-38-85-6f-0e CAM - 22          Camaras de videovigilancia
+10.178.1.23  08-cc-81-58-ec-a3 CAM - 23          Camaras de videovigilancia
+10.178.1.24  54-8c-81-32-8e-3b CAM - 24          Camaras de videovigilancia
+
+
+
+Reservaciones para el scope 10.178.2.0
+----------------------------------
+
+IPAddress   ClientId          Name            Description
+---------   --------          ----            -----------
+10.178.2.5  00-26-73-87-f2-49 RNP00267387F249 MP2553 / PLANEACION
+10.178.2.6  b4-22-00-84-a0-fc BRNB4220084A0FC NC-9200H / PLANEACION
+10.178.2.7  00-26-73-87-be-d6 RNP00267387BED6 RICOH / PLANEACION / ESTUDIOS Y PROYECTOS
+10.178.2.8  3c-d9-2b-0e-b8-01 IMP-PLA-HP-8    P2055DN / PLANEACION / OBRAS
+10.178.2.10 00-26-73-7d-5b-00 RNP0026737D5B00 MP 3053 / PLANEACIN / DIRECCION
+10.178.2.23 a0-d3-c1-32-40-3f DESKTOP-N7IQSEV Cathy Rosalba Tec Matos / Cathy Rosalba Tec Matos
+10.178.2.9  48-9e-bd-6a-2f-fd HP6A2FFD        LASERJET PRO MFP M428FDW / PLANEACIOIN /  DIRECCION
+10.178.2.11 00-c0-ee-b7-86-bf KMB786BF        FS-1035MFP / RECURSOS HUMANOS / DIRECCION
+10.178.2.12 30-e1-71-3f-94-ff NPI3F94FF       HP LASERJET MFP M477fdw NPI3F94FF/ PLANEACIÓN, EVALUACIÓN Y SEGUIMIENTO (…
+10.178.2.13 00-26-73-80-fe-4d RNP00267380FE4D IMPRESORA / DIRECCION PLANEACION / 
+10.178.2.14 00-26-73-ad-af-53 RNP002673ADAF53 datos no enviados
+10.178.2.15 38-63-bb-d9-e9-4b NPID9E94B       Falta datos area planeacion
+10.178.2.2  00-26-73-8a-37-9b IMP-RICOH-2     RICOH MP 301  /  CONTOROL INTERNO
+10.178.2.17 00-26-73-99-47-0b IMP-CONTRATO    soporte
+10.178.2.3  9c-93-4e-a7-a6-8f XRX9C934EA7A68F IMPRESORA	COMUNICACIÓN SOCIAL 	Xerox	C8035
+10.178.2.16 94-dd-f8-3e-3a-2b BRN94DDF83E3A2B Coordinacion TI
+
+
+
+Reservaciones para el scope 10.178.3.0
+----------------------------------
+
+IPAddress   ClientId          Name                                     Description
+---------   --------          ----                                     -----------
+10.178.3.2  00-26-73-b0-fa-63 IMP-EST-RICOH-2                          MP 5054 / ESTADISTICA / ESTADISTICA
+10.178.3.23 a4-5d-36-17-63-5f DESKTOP-GCLS8QT                          Miguel Jesus Cauich Osalde /  Estadística
+10.178.3.24 fc-4d-d4-4c-e4-0b SE-ESTA-NCG.gobierno1.yucatan.gob.mx     Noemi del Carmen Carrillo Gonzalez / Estadística
+10.178.3.25 f0-92-1c-dc-54-b8 SE-PLANEA-JPC.gobierno1.yucatan.gob.mx   Alfonso Adrian Segovia Martin / Estadística
+10.178.3.27 24-be-05-0e-5f-43 SE-SISTEMAT-JCG.gobierno1.yucatan.gob.mx Jorge Cebada Gutierrez / Estadística
+10.178.3.28 9c-b6-54-1d-83-69 DESKTOP-V204L2T                          Jacob Parra Cetina / Estadística
+10.178.3.29 60-18-95-50-c8-4f DESKTOP-EGPCRJI                          Jorge Adrian Canche Herrera / Estadística
+10.178.3.30 e4-54-e8-69-e3-38 SE-ESTA-DGF.gobierno1.yucatan.gob.mx     FERNANDO. CANDILA / ESTADISTICA
+10.178.3.4  30-05-5c-b2-03-12 BRN30055CB20312                          Estadistica
+10.178.3.96 c8-4d-44-23-01-4c SE-DESLAP-JBC.gobierno1.yucatan.gob.mx   Jose Francisco Briseño Coronado /  Estadística
+10.178.3.3  00-26-73-ee-ab-67 RNP002673EEAB67                          MP-3055 / ESTADISTICA / PRESUPUESTOS
+
+
+
+Reservaciones para el scope 10.178.4.0
+----------------------------------
+
+IPAddress  ClientId          Name            Description
+---------  --------          ----            -----------
+10.178.4.2 00-26-73-84-a1-a0 VINCULACION     MP 3053 / PAGADURIA / NOMINA FEDERAL (GABRIELA CAMPOS)
+10.178.4.6 00-26-73-9a-a8-87 RNP0026739AA887 MP 5054 / PAGADURIA / RECURSOS MATERIALES (LIC LISSETH)
+10.178.4.7 00-26-73-19-da-3a MXMRDPRT38      AFICIO MP 2851 / PAGADURIA / PAGADURIA (MARTA GONGORA)
+10.178.4.8 14-58-d0-40-07-d0 NPI4007D0       P3015 / PAGADURIA / OFICINA DE VALIDACION NOMINA ESTATAL  (CARLOS POOT)
+10.178.4.4 00-26-73-96-0f-2b RNP002673D0A90F MP 4054 / PAGADURIA / RECURSOS MATERIALES (LIC LISSETH)
+10.178.4.3 b4-22-00-9f-80-1d IMP-RM-4        M2040DN / PAGADURIA / RECURSOS MATERIALES Ruben Nuñez
+10.178.4.5 00-26-73-d0-3b-c4 ZAR024MC3D03BC4 IMP / Recursos Materiales
+
+
+
+Reservaciones para el scope 10.178.5.0
+----------------------------------
+
+IPAddress  ClientId          Name            Description
+---------  --------          ----            -----------
+10.178.5.2 00-26-73-99-7c-30 COPY-4020-Rm208 Mp 3554 / COPNTRALORIA / Almacen de Consumo Ivan Paez
+10.178.5.3 58-38-79-34-f7-5b B15984          MP 3555 / CONTRALORIA / CONTROL PATRIMONIAL (JORGE RODRIGUEZ)
+10.178.5.5 00-26-73-a8-89-78 ricohc4503t     MP C45503 SP / ALMACEN / SERVICIOS GENERALES Cristian Novelo
+10.178.5.4 00-26-73-f6-53-df RNP002673F653DF Ricoh mp 3055 / CONTRALORIA / CONTROL PATRIMONIAL (ÁREA DE ARCHIVO) JOAQUI…
+10.178.5.6 00-26-73-8d-f3-1b RNP0026738DF31B IMPRESORA/ SIN DATOS / 
+
+
+
+Reservaciones para el scope 10.178.6.0
+----------------------------------
+
+IPAddress  ClientId          Name            Description
+---------  --------          ----            -----------
+10.178.6.4 58-38-79-1f-a5-c5 RNP5838791FA5C5 MP4055 / ALMACEN / GRÁFICOS
+10.178.6.6 00-26-73-90-44-3d RICOH4054       MP 4054/ ALAMACEN / ASISTENCIA Y PREVISIÓN Edgar Mena
+10.178.6.8 00-26-73-b0-fa-63 GBOFCADCOPY     IMP-ALMACEN-GRAFICOS
+10.178.6.2 9c-93-4e-a7-a6-8f XRX9C934EA7A68F IMPRESORA XEROX  / ALMACEN / GRÁFICOS
+10.178.6.3 00-26-73-a6-71-59 RNP002673A67159 IMPRESORA / RICOH MP4054 / 
+10.178.6.9 00-26-73-d0-3b-c4 ZAR024MC3D03BC4 MP 3053 / AREA DE GRAFICOS
+10.178.6.7 00-26-73-ef-dc-cf US-SE-DIS-PT005 IMPRESORA / CONTROL VEHICULAR 
+10.178.6.5 58-38-79-47-49-73 RNP583879474973 IMPRESORA / Asistencia y Previsión
+
+
+
+Reservaciones para el scope 10.178.7.0
+----------------------------------
+
+IPAddress   ClientId          Name                  Description
+---------   --------          ----                  -----------
+10.178.7.3  00-17-61-12-8b-70 LEC-GG-3              CASETA DE RECURSOS MATERIALES
+10.178.7.2  00-17-61-12-8b-7c LEC-GG-2              CASETA DE NÓMINA-SISTEMATIZACIÓN
+10.178.7.25 00-17-61-12-8b-57 chec-1                Lector de huella / edificio central / ZKTECO / UA860
+10.178.7.27 00-17-61-12-8b-26 chec-3                Lector de huella / edificio central / ZKTECO / UA862
+10.178.7.26 00-17-61-12-99-22 chec-2                Lector de huella / edificio central / ZKTECO / UA861
+10.178.7.4  00-26-73-ab-99-92 ingramhall-b026-c3503 MP C3503 / ALMACEN / ASISTENCIA Y PRVISION
+
+
+
+Reservaciones para el scope 10.178.8.0
+----------------------------------
+
+IPAddress    ClientId          Name                                     Description
+---------    --------          ----                                     -----------
+10.178.8.2   a4-5d-36-17-63-5f DESKTOP-GCLS8QT                          Miguel 
+10.178.8.132 48-d2-24-61-0f-ad DESKTOP-GCLS8QT                          LAP TOP / MIGUEL CAHUICH / INALAMBRICA
+10.178.8.19  f0-92-1c-65-6d-aa IMP - SND - 19                           IMPRESORA / SIN DATOS
+10.178.8.78  c4-3d-1a-55-b1-a8 SE-DESLAP-EEO.gobierno1.yucatan.gob.mx   
+10.178.8.33  f4-f2-6d-03-5f-ab SE-REGCERT-AMV2.gobierno1.yucatan.gob.mx Miguel Cauich / Desarrollo / Aplicaciones Web
+
+
+
+Reservaciones para el scope 10.178.9.0
+----------------------------------
+
+IPAddress   ClientId          Name                                Description
+---------   --------          ----                                -----------
+10.178.9.3  2c-59-e5-77-be-bd IMP-PRIM-HP-3                       LASERJET P115 / PRIMARIAS / CONCILIACION BANCARIA (AT…
+10.178.9.4  08-2e-5f-6a-b6-bf NPI6AB6BF                           LASERJET P115 / PRIMARIAS / CONCILIACION BANCARIA (AT…
+10.178.9.6  ec-8e-b5-23-ba-ae NPI23BAAE                           HP LASERJET FFP M426DW / PRIMARIAS / DEPARTAMENTO DE …
+10.178.9.8  00-26-73-73-b1-8a HEMA21P                             MP3053 / PRIMARIAS / COORDINACION DE ENLACE (LEONOR P…
+10.178.9.32 00-80-9f-b4-ec-cb TEL-PRIM-ALCATEL-1                  EXT. 51305 \ ESTANCIA
+10.178.9.17 00-26-73-7a-74-b6 RNP0026737A74B6                     BIZHUB 454E / PRIMARIAS / COORDINACION DE ARCHIVOS (S…
+10.178.9.45 a0-8c-fd-cc-23-89 SE-IMC-JCM.gobierno1.yucatan.gob.mx Jose Azrael Cetina Medina <azrael.cetina@yucatan.gob.…
+10.178.9.16 00-26-73-9c-1e-72 RNP0026739C1E72                     MP 2553 / PRIMARIAS / ADQUISICIONES
+10.178.9.2  ac-e2-d3-42-f5-e0 RNP0026738A0973                     MP301SPF / PRIMARIAS / ARCHIVOS Y GLOSA (ATRÁS DE CAJ…
+10.178.9.5  30-e1-71-3d-98-0a NPI3D980A                           HP LASERJET P2055DN / PRIMARIAS / PROYECTOS TRANSVERS…
+10.178.9.7  00-26-73-ef-97-58 RNP002673EF9758                     MX-M5064M / PRIMARIAS /OFICINA DE TRAMITE (CARMITA UH)
+
+
+
+Reservaciones para el scope 10.178.10.0
+----------------------------------
+
+IPAddress    ClientId          Name              Description
+---------    --------          ----              -----------
+10.178.10.2  58-38-79-1d-72-8c RNP5838791D728C   MP 301 / FINANZAS / FINANZAS CONTABILIDAD
+10.178.10.3  58-38-79-20-cc-07 RNP58387920CC07   MP 301 / FINANZAS /FINANZAS FISCALIZACION
+10.178.10.4  00-17-c8-bb-f3-a1 IMP-FIN-KYOCERA-4 ECOSYS M2040DN / FINANZAS / FINANZAS TESORERIA
+10.178.10.5  00-26-73-72-5a-cf RNP002673725ACF   MP 3053 / FINANZAS / RECURSOS FINANCIEROS
+10.178.10.6  00-26-73-71-61-9a RNP00267371619A   MP 3053 / FINANZAS / RECURSOS FINANCIEROS
+10.178.10.8  d4-85-64-42-27-95 NPI422795         IMP-FIN-LASERJET-P2055DN
+10.178.10.9  bc-51-fe-ba-38-34 DVR8-4680RN       DVR8-4680RN-contraloria de partes 
+10.178.10.11 a0-d3-c1-ea-ed-3b NPIEAED3B         IMP / DEPTO RECURSOS FINANCIEROS / SUBJEFATURA DE TESORERIA 
+10.178.10.12 00-26-73-8b-4d-89 RNP0026738B4D89    fin imp sub de recursos finan
+10.178.10.10 00-17-c8-2d-79-32 IMPMERATCGP       ADMINISTRACIÓN Y FINANZAS - CONTABILIDAD
+
+
+
+Reservaciones para el scope 10.178.11.0
+----------------------------------
+
+IPAddress    ClientId          Name                                    Description
+---------    --------          ----                                    -----------
+10.178.11.4  28-80-23-11-aa-34 NPI11AA34                               P3015 / RECURSOS HUMANOS / RECURSOS HUMANOS
+10.178.11.5  00-26-73-b0-4b-5b RNP002673B04B5B                         MP 3554 / RECURSOS HUMANOS / RECURSOS HUMANOS CA…
+10.178.11.6  00-26-73-99-47-0b IMP-RECHUM-RICOH-6                      SP 310 / RECURSOS HUMANOS/ RECURSOS HUMANOS PROG…
+10.178.11.7  00-26-73-73-b1-ac ENDO12P                                 MP 3053 /  RECURSOS HUMANOS /DIRECCION 
+10.178.11.9  f4-39-09-f5-ba-16 IMP-RECHUM-HP-9                         LASERJET MFP M426DW / RECURSOS HUMANOS / SUBDIRE…
+10.178.11.10 9c-b5-54-19-ee-b5 IMP-RECHUM-HP-10                        LASERJET M475DN / RECURSOS HUMANOS / COORDINACIO…
+10.178.11.11 30-05-5c-48-a4-a0 BRN30055C48A4A0                         NC-8200H / RECURSOS HUMANOS / COORDINACION DE AT…
+10.178.11.23 e4-54-e8-69-78-ee SER-RECHUM-MCC.gobierno1.yucatan.gob.mx  Martín Augusto Canché Canché / Departamento de …
+10.178.11.12 00-26-73-79-98-a1 RNP0026737998A1                         MP 2553 / FINANZAS / OFICIALIA DE PARTES
+10.178.11.8  00-26-73-e5-cf-ec IMP-MP3055-ADMIN-FIN                    DIRECCION DE ADMNISTRACION Y FINANZAS
+10.178.11.13 94-dd-f8-22-57-ad BRN94DDF82257AD                         IMP / ADMINISTRACION Y FINANZAS - DIRECCION / BR…
+10.178.11.3  00-26-73-f6-87-b4 RNP002673F687B4                         MX-M464 / SALA 3
+10.178.11.14 08-2e-5f-b9-1b-06 NPIB91B06                               IMP / Recursos Humanos / Irving
+10.178.11.2  58-38-79-1c-00-e0 RNP5838791C00E0                         MP 2555 / RECURSOS HUMANOS / RECURSOS HUMANOS JE…
+10.178.11.15 fc-3f-db-c1-b9-05 NPIC1B905                               IMP / sin datos / Servicio: Felix Sosa
+10.178.11.16 44-1e-a1-2f-2c-5e NPI2F2C5E                               Recursos Humanos / Subjefatura de contratratos A…
+
+
+
+Reservaciones para el scope 10.178.12.0
+----------------------------------
+
+IPAddress     ClientId          Name            Description
+---------     --------          ----            -----------
+10.178.12.3   00-26-73-72-97-d4 RNP0026737297D4 MP 2553 / DESPACHO / COORDINACION DE ARCHIVOS DE PERSONAL DE CONTRATO (…
+10.178.12.4   00-26-73-43-59-3d RNP00267343593D AFICIO MP 2852 / DESPACHO / COORDINACION DE ARCHIVOS DE PERSONAL DE CON…
+10.178.12.5   00-26-73-c1-35-1d RNP002673C1351D MP C4504 / DESPACHO / DESPACHO RECEPCION 
+10.178.12.6   38-63-bb-d9-e9-4b NPID9E94B       LASSER JET PRO M521DN / DESPACHO / DESPACHO COORD. ADM.
+10.178.12.23  ec-b1-d7-6a-8e-7a SE-CGTIC-HRG    Humberto Javier Ruz Gonzalez / Registro y Certificación
+10.178.12.254 9c-14-63-4a-b5-10 DVR-DESPACHO    DVR DESPACHO
+10.178.12.7   58-38-79-15-72-1a BRN94DDF8200A9D NC-9200H / DESPACHO / ASISTENTES (raymundo muñoz)
+10.178.12.9   a8-b1-3b-0d-32-c5 HP0D32C5        IMP / DESPACHO
+10.178.12.8   3c-2a-f4-61-50-4a BRN3C2AF461504A IMPRESORA / Despacho - Protocolo
+10.178.12.10  f4-30-b9-f0-41-8a NPIF0418A       HP Color laser Jet M553 / Despacho- Sala de Juntas
+10.178.12.2   00-26-73-6f-96-bf RNP0026736F96BF Impresora / control patrimonial
+10.178.12.11  24-e9-b3-ea-2d-ff Despacho        Prueba de despacho 200126
+
+
+
+Reservaciones para el scope 192.168.118.0
+----------------------------------
+
+IPAddress       ClientId          Name                   Description
+---------       --------          ----                   -----------
+192.168.118.48  98-e7-f4-a5-c7-72 Impresora-HP_primaria  Impresora asignada a primarias
+192.168.118.15  80-38-96-9f-60-47 Impresora Sharp mx3570 Impresora Sharp mx3570 comunicación social
+192.168.119.189 00-26-73-a6-a6-0c Impresora Rechum       
+192.168.118.24  00-26-73-73-b1-ac Impresora              dirección de administración y finanzas-Ricoh
+
+
+
+Reservaciones para el scope 192.168.120.0
+----------------------------------
+
+IPAddress       ClientId          Name               Description
+---------       --------          ----               -----------
+192.168.120.241 00-26-73-c1-35-1d Impresora despacho Impresora despacho
+
+
+
