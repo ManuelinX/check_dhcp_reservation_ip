@@ -4,8 +4,11 @@
 #include <map>
 #include <fstream>
 #include <unordered_map>
+#include <algorithm>
+#include <filesystem>
 
 using namespace std;
+namespace fs = filesystem;
 
 vector<vector<string>> values;
 vector<string> get_values(string &);
@@ -15,66 +18,87 @@ void leer_txt();
 string formatSharedString(const string &,const string &);
 string formatwSheet1(const string &,const unsigned int &,const vector<string> &,const vector<string> &, const string &);
 
-unsigned int count = 0;
+void crearXML(/*const vector<string>& labels*/const string &datos, const string filename);
+
+void movFile(const string &, const string &);
+
+unsigned int countXML = 0;
 unsigned int uniqueCount = 0;
 int totalCount = -1;
-map<string,unsigned int> uniqueStrings;
+//unordered_map<string,unsigned int> uniqueStrings;
+unordered_map<string,unsigned int> uniqueStrings;
 unordered_map<string,unsigned int> celdas;
 string celdaActual = "A1";
 string celdaAnterior = "A1";
 
+
+
 int main(){
     leer_txt();
-    string sharedStrings = R"(<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-    <sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="*" uniqueCount="*">
-    )";
+    string sharedStrings = "";
 
+    vector<pair<string,unsigned int>> vec (uniqueStrings.begin() , uniqueStrings.end());
 
-
+    sort(vec.begin(),vec.end(),[](const auto& a, const auto& b) {
+            return a.second < b.second;  // ascendente
+        });
     string sharedStringsTemplate = R"(
         <si>
             <t>*</t>
         </si>)";
     
-    for(const auto &uS: uniqueStrings){
-        sharedStrings += formatSharedString(sharedStringsTemplate,uS.first);
+    for(const auto &[key,vval]: vec){
+        sharedStrings += formatSharedString(sharedStringsTemplate,key);
     }
+    string auxSS = R"(<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    <sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count=")";
+    auxSS += to_string(totalCount+1) + R"(" uniqueCount=")";
+    auxSS += to_string(uniqueCount) +R"(">)";
+    
 
     sharedStrings += "\n</sst>";
 
+    auxSS += sharedStrings;
+    sharedStrings = auxSS;
+    /*
+    xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3"
+    mc:Ignorable="x14ac xr xr2 xr3"
+    xr:uid="{00000000-0001-0000-0000-000000000000}"
+    */
+
     string wSheet1 = R"(<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-    <worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" mc:Ignorable="x14ac xr xr2 xr3" xr:uid="{00000000-0001-0000-0000-000000000000}">
+    <worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" mc:Ignorable="x14ac">
     <dimension ref="A1:*"/>
     <sheetViews>
     <sheetView tabSelected="1" workbookViewId="0">
-    <selection activeCell="A1" sqref="E1"/>
+    <selection activeCell="E1" sqref="E1"/>
     </sheetView>
     </sheetViews>
-    <sheetFormatPr baseColWidth="10" defaultColWidth="8.88671875" defaultRowHeight="14.4" x14ac:dyDescent="0.3"/>
+    <sheetFormatPr baseColWidth="10" defaultColWidth="8.85546875" defaultRowHeight="15" x14ac:dyDescent="0.25"/>
     <cols>
     <col min="1" max="1" width="14" bestFit="1" customWidth="1"/>
-    <col min="2" max="2" width="14.6640625" bestFit="1" customWidth="1"/>
-    <col min="3" max="3" width="16.44140625" bestFit="1" customWidth="1"/>
-    <col min="4" max="4" width="39.5546875" bestFit="1" customWidth="1"/>
-    <col min="5" max="5" width="114.21875" bestFit="1" customWidth="1"/>
+    <col min="2" max="2" width="14.7109375" bestFit="1" customWidth="1"/>
+    <col min="3" max="3" width="16.42578125" bestFit="1" customWidth="1"/>
+    <col min="4" max="4" width="39.5703125" bestFit="1" customWidth="1"/>
+    <col min="5" max="5" width="114.28515625" bestFit="1" customWidth="1"/>
     </cols>
     <sheetData>)";
     wSheet1 = formatSharedString(wSheet1,celdaAnterior);
     string wSheet1Template = R"(
-        <row r="*" spans="1:5" x14ac:dyDescent="0.3">
-            <c r="*" * t="s">
+        <row r="*" spans="1:5" x14ac:dyDescent="0.25">
+            <c r="*"* t="s">
                 <v>*</v>
             </c>
-            <c r="*" * t="s">
+            <c r="*"* t="s">
                 <v>*</v>
             </c>
-            <c r="*" * t="s">
+            <c r="*"* t="s">
                 <v>*</v>
             </c>
-            <c r="*" * t="s">
+            <c r="*"* t="s">
                 <v>*</v>
             </c>
-            <c r="*" * t="s">
+            <c r="*"* t="s">
                 <v>*</v>
             </c>
         </row>
@@ -96,7 +120,8 @@ int main(){
         }
         string s;
         if(i-1 == 0){
-            s = "s=\"2\"";
+            //s = " s=\"2\"";
+            s= "";
         }
         else{
             s= "";
@@ -133,9 +158,71 @@ int main(){
     </worksheet>)";
     cout<<wSheet1<<endl;
 
+    crearXML(wSheet1, "sheet1.xml");
+    crearXML(sharedStrings, "sharedStrings.xml");
+
+    for(const auto &v: uniqueStrings){
+        cout<<"index: "<<v.first<<" val: "<<v.second<<endl;
+    }
+    
+    
+    movFile("sharedStrings.xml","template/xl");
+    movFile("sheet1.xml","template/xl/worksheets");
     //cout<<celdaAnterior<<endl;
     return 0;
 }
+
+void movFile(const string &archivo, const string &ruta){
+    fs::path archivo_origen = archivo;
+    fs::path carpeta_destino = ruta;
+    fs::path archivo_destino = carpeta_destino / archivo_origen.filename();
+    try{
+        if(!fs::exists(carpeta_destino)){
+            fs::create_directories(carpeta_destino);
+        }
+
+        fs::rename(archivo_origen,archivo_destino);
+
+
+    }
+    catch(const fs::filesystem_error & e){
+        if(fs::exists(archivo_destino)){
+            fs::remove(archivo_destino);
+            fs::rename(archivo_origen,archivo_destino);
+            cout<<"Archivo reemplazado correctamente..."<<endl;
+        }
+        else{
+            cerr<<"Error al mover el archivo"<<e.what()<<endl;
+        }
+    }
+}
+
+// Genera el sharedStrings.xml y lo guarda
+void crearXML(/*const vector<string>& labels*/const string &datos, const string filename) {
+    ofstream file(filename);
+    if (!file.is_open()) {
+        cerr << "Error: No se pudo abrir el archivo " << filename << " para escribir.\n";
+        return;
+    }
+
+    // Cabecera XML
+    /*file << "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n";
+    file << "<sst xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\" "
+         << "count=\"" << labels.size() << "\" uniqueCount=\"" << labels.size() << "\">\n";
+    */
+    file<<datos;
+
+    // Cada label dentro de <si><t>...</t></si>
+    //for (const auto& label : labels) {
+    //    file << "    <si><t>" << escapeXML(label) << "</t></si>\n";
+    //}
+
+    //file << "</sst>\n";
+    file.close();
+
+    cout << "Archivo '" << filename << "' creado correctamente.\n";
+}
+
 
 string selectValwSheet1(const unsigned int &nAsteriscos,const unsigned int &r , const vector<string> & vals,  const vector<string> &rows, const string &s,unsigned int &conteo){
     if(nAsteriscos == 0){
@@ -241,12 +328,12 @@ vector<string> get_values(string &linea){
 
                 if(cadenaVacia) continue;
 
-                auto [ite,status] = uniqueStrings.try_emplace(valor,totalCount);
+                auto [ite,status] = uniqueStrings.try_emplace(valor,uniqueCount);
                 //cout<<paridad<<"-"<<cadenaVacia<<endl;
                 uniqueCount = (status)? uniqueCount + 1 : uniqueCount;
                 
                 
-                count++;
+                countXML++;
             }
             else{
                 totalCount++;
@@ -293,3 +380,5 @@ vector<string> get_values(string &linea){
     return valores;
 
 }
+
+//compilacion estatica: g++ codigo_mejoras.cpp -std=c++17 -static -static-libgcc -static-libstdc++ -o programa.exe
